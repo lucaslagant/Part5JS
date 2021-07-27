@@ -1,0 +1,11 @@
+.pass_green{
+    border: 1px solid green;
+}
+
+.pass_red{
+    border: 1px solid red;
+}
+/* Seule la classe red_message est utilisée dans l'exercice n°3 */
+.red_message{
+    color: red;
+}
